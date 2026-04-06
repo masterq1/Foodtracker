@@ -26,6 +26,20 @@ A mobile food tracking app built with React Native and Expo. Take a photo of you
 
 ---
 
+## Install APK (Android)
+
+Download and install the latest APK directly — no app store required:
+
+**[Download FoodTracker.apk](https://github.com/masterq1/Foodtracker/releases/download/v1.0.0/food-tracker.apk)**
+
+To install:
+1. Download the APK to your Android phone
+2. Go to **Settings → Apps → Special app access → Install unknown apps**
+3. Enable installs for your browser or file manager
+4. Open the downloaded APK and tap Install
+
+---
+
 ## Setup
 
 ### Requirements
@@ -51,20 +65,6 @@ Scan the QR code with Expo Go on your phone.
 2. Sign in with your Google account
 3. Click **Get API key** → **Create API key**
 4. Open the app → **Settings** → paste your key → tap **Save Key**
-
----
-
-## Install APK (Android)
-
-Download and install the latest APK directly — no app store required:
-
-**[Download FoodTracker.apk](https://expo.dev/artifacts/eas/gXHfNRwAwXMjbYbvHm8hJV.apk)**
-
-To install:
-1. Download the APK to your Android phone
-2. Go to **Settings → Apps → Special app access → Install unknown apps**
-3. Enable installs for your browser or file manager
-4. Open the downloaded APK and tap Install
 
 ---
 
