@@ -2,6 +2,12 @@
   "expo": {
     "name": "FoodTracker",
     "slug": "foodtracker",
+    "owner": "masterq1",
+    "extra": {
+      "eas": {
+        "projectId": "f0fb8209-5ebb-4ea8-8646-0ef398e480d1"
+      }
+    },
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -13,14 +19,14 @@
     },
     "ios": {
       "supportsTablet": false,
-      "bundleIdentifier": "com.yourname.foodtracker",
+      "bundleIdentifier": "com.masterq1.foodtracker",
       "infoPlist": {
         "NSCameraUsageDescription": "Food Tracker uses the camera to photograph your meals for nutritional analysis.",
         "NSPhotoLibraryUsageDescription": "Food Tracker accesses your photos so you can select meal images for analysis."
       }
     },
     "android": {
-      "package": "com.yourname.foodtracker",
+      "package": "com.masterq1.foodtracker",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#4CAF50"
